@@ -1,0 +1,1 @@
+Explore hotel booking cancellation trends and insights using various Python libraries (e.g., Pandas, Matplotlib). Gain valuable data-driven knowledge to understand cancellation patterns, predict future behavior, and potentially improve hotel revenue. Ideal for data analysts, hotel managers, and anyone interested in hotel booking behavior.
